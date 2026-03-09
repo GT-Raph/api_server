@@ -3,7 +3,7 @@ uvicorn
 opencv-python-headless
 numpy
 deepface
-tensorflow
+tensorflow==2.10.1
 ulid-py
 psycopg2-binary
 python-dotenv
